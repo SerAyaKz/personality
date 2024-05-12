@@ -15,13 +15,13 @@ import { getAnalytics } from "firebase/analytics";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBfCxIl0qKiKCtx_YvbESCrHoYElc7sdiQ",
-  authDomain: "personalityprediction-d8ac8.firebaseapp.com",
-  projectId: "personalityprediction-d8ac8",
-  storageBucket: "personalityprediction-d8ac8.appspot.com",
-  messagingSenderId: "511533027657",
-  appId: "1:511533027657:web:a1190c1f775db77a3f4a98",
-  measurementId: "G-C0DJ2YC06N"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
